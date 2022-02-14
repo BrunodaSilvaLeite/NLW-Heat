@@ -7,7 +7,6 @@
   <a href="#-Project">Project🧑‍💻</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-How-to-Run-back">How to Run back🏃</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-How-to-Run-front">How to Run front🏃</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-How-to-contribute">How to contribute🤔</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-License">License📝</a>
 </p>
 
