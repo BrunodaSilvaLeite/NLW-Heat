@@ -28,14 +28,14 @@ type AuthContextData = {
 export const AuthContext = createContext({} as AuthContextData);
 
 type AuthContext = {
-    children: ReactNode;
+    children: ReactNode ;
 }
 
 export function AuthProvider(props: AuthContext) {
     
     const [user, setUser] = useState<User | null>(null)
 
-    const signInUrl = `https://github.com/login/oauth/authorize?scope=user&client_id=a7868b3fb70587a5ddfd`;
+    const signInUrl = `https://github.com/login/oauth/authorize?scope=user&client_id=a7868b3fb70587a5ddfc`;
 
     async function signIn(githubCode: string) {
         const response = await api.post<AuthResponse>("authenticate", {
