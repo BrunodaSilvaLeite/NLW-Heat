@@ -28,8 +28,6 @@ This project was developed with:
 The project "NLW-Heat-Mission-Impulse-DoWhile2021" 🧑‍💻 is a project that is part of the [NLW Heat](https://app.rocketseat.com.br/node/mission-impulse-heat) made by Rocketseat . In order to learn **NodeJS** and **React**.
 This project authenticates the user through github and allows the user to comment on the "dowhile" event.
 
-## 🚨 very important
-It is very important to put variables in a .env document on the backend and put the clientId of your github app in the signInUrl variable inside the auth in the context folder on the front.
 
 ## 🏃 How to Run back
 
