@@ -2,6 +2,7 @@ import { createContext, ReactNode } from "react";
 import { useEffect, useState } from "react";
 import { api } from "../services/api";
 
+
 type AuthResponse = {
     token: string;
     user: {
@@ -31,10 +32,10 @@ type AuthContext = {
 }
 
 export function AuthProvider(props: AuthContext) {
-
+    
     const [user, setUser] = useState<User | null>(null)
 
-    const signInUrl = `https://github.com/login/oauth/authorize?scope=user&client_id=${process.env.GITHUB_CLIENTE_ID}`;
+    const signInUrl = `https://github.com/login/oauth/authorize?scope=user&client_id=idClienteGithub`;
 
     async function signIn(githubCode: string) {
         const response = await api.post<AuthResponse>("authenticate", {
