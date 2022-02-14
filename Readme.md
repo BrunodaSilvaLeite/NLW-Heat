@@ -23,7 +23,7 @@ This project was developed with:
 
 ## 🧑‍💻 Project
 
-The project "NLW-Heat-Mission-Impulse-DoWhile2021" 🧑‍💻 is a project that is part of the [NLW Heat](https://app.rocketseat.com.br/node/mission-impulse-heat) made by Rocketseat . In order to learn **NodeJS** and **React**.
+The project "NLW-Heat" 🧑‍💻 is a project that is part of the [NLW](https://app.rocketseat.com.br/node/mission-impulse-heat) made by Rocketseat . In order to learn **NodeJS** and **React**.
 This project authenticates the user through github and allows the user to comment on the "dowhile" event.
 
 ## 🚨 very important
