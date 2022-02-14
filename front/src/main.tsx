@@ -1,8 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { App } from '../src/App'
-import { AuthProvider } from './context/auths'
-
+import { AuthProvider } from './context/auth'
 
 import "./styles/global.scss"
 
