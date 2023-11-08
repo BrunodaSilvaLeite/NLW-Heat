@@ -22,9 +22,8 @@ This project was developed with:
 - SQLite
 
 ## 🧑‍💻 Project
-
-The project "NLW-Heat" 🧑‍💻 is a project that is part of the [NLW](https://app.rocketseat.com.br/node/mission-impulse-heat) made by Rocketseat . In order to learn **NodeJS** and **React**.
-This project authenticates the user through github and allows the user to comment on the "dowhile" event.
+The "NLW-Heat" 🧑 💻 project is a fascinating educational initiative that is part of the NLW event, organized by Rocketseat. This project is an excellent opportunity to learn and hone skills in **NodeJS** 📗 and **React** ⚛️.
+A notable feature of this project is its ability to authenticate users through GitHub. This allows users to interact with and comment on the "DoWhile" event, creating an interactive and engaging learning experience.
 
 ## 🚨 very important
 It is very important to put variables in a .env document on the backend and put the clientId of your github app in the signInUrl variable inside the auth in the context folder on the front.
